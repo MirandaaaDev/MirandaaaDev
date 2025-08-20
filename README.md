@@ -28,11 +28,14 @@
 
 ### Prototipagem
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+##
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaaaDev&layout=compact&theme=buefy&hide_border=true" /></a>
+<br/>
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-miranda-8878561a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirandaa.alex1@gmail.com)
-
-![snake gif](https://github.com/Carolinyr9/Carolinyr9/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=120&section=footer"/>
